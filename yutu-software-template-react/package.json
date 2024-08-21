@@ -1,6 +1,6 @@
 {
-  "name": "yutu-software-template-react",
-  "version": "1.0.0",
+  "name": "<%= className %>",
+  "version": "<%= version %>",
   "description": "react项目模版",
   "keywords": [],
   "author": "",

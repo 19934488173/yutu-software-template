@@ -1,6 +1,6 @@
 {
-  "name": "<%= className %>",
-  "version": "<%= version %>",
+  "name": "<%= projectName %>",
+  "version": "<%= projectVersion %>",
   "private": true,
   "type": "module",
   "scripts": {
